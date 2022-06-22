@@ -1,0 +1,15 @@
+gallery {
+
+}
+.gallery td {
+    width: 33%
+}
+
+.gallery td img {
+    width: 100%
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
